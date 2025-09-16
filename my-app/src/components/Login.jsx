@@ -10,8 +10,8 @@ function Login() {
         e.preventDefault();
 
         if (email.trim() !== '' && senha.trim() !== '') {
-            localStorage.setItem('email', email);
-            localStorage.setItem('senha', senha);
+            localStorage.setItem('email:', email);
+            localStorage.setItem('senha:', senha);
 
             console.log('Redirecionando para /home');
             navigate('/home');
