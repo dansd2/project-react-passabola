@@ -1,0 +1,13 @@
+{
+  "peneiras": [
+    {
+      "id": "6028",
+      "nome": "teste",
+      "idade": "32",
+      "posicao": "goleiro",
+      "cpf": "43567890",
+      "email": "email@email.com",
+      "telefone": "4567890"
+    }
+  ]
+}
