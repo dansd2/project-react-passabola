@@ -33,7 +33,7 @@ export default function FormularioCadastro() {
       });
     } catch (error) {
       console.error("Erro no envio:", error);
-      // Aqui você pode optar por não mostrar nada ou mostrar um log silencioso
+      
     } finally {
       setMensagem("✅ Inscrição enviada com sucesso!");
       setFormData({
